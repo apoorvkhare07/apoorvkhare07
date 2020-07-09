@@ -1,9 +1,9 @@
 
 ## 👋
 
-<samp> Currently working on realising the use/impact of social media and 
-mainstream news media to spread negative sentiments and use them in
-order to manipulate general thinking. 
+<samp> Currently working on realising the use/impact of social media <br> and 
+mainstream news media to spread negative sentiments <br> and use them in
+order to manipulate general thinking. <br>
 Studying the mental and psychological impact of the same. </samp>
 
 
