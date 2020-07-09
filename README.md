@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   I aim to create a beautiful corner of the web free of ads, sponsored posts, and the rest of the annoying noise we're so accustomed to seeing on the internet these  days.
 </details> <br>
 
-:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/Apoorvkhare12">Twitter</a>
+:coffee: ? :point_right: @ me on <a href="https://twitter.com/Apoorvkhare12">Twitter</a>
