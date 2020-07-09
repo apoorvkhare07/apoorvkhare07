@@ -1,11 +1,10 @@
-👽
 
-👋 Final year undergrad at IIT Roorkee 🎓.
+## 👋
 
-Currently working on realising the use/impact of social media and \
-mainstream news media to spread negative sentiments and use them in\
-order to manipulate general thinking. \
-Studying the mental and psychological impact of the same.
+<samp> Currently working on realising the use/impact of social media and 
+mainstream news media to spread negative sentiments and use them in
+order to manipulate general thinking. 
+Studying the mental and psychological impact of the same. </samp>
 
 
 <!--
@@ -42,4 +41,4 @@ Here are some ideas to get you started:
   I aim to create a beautiful corner of the web free of ads, sponsored posts, and the rest of the annoying noise we're so accustomed to seeing on the internet these  days.
 </details> <br>
 
-:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/Apoorvkhare12">Twitter</a>
